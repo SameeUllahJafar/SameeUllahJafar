@@ -25,7 +25,22 @@ https://wallpaperaccess.com/full/849790.gif
 📫 How to reach me is via my email: sameeu668+github@gmail.com
 <br>
 
+<!-- Statistics Start -->
+<hr/>
 
+<h3 align="center">Statistics</h3>
+<hr/>
+
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/SameeUllahJafar">
+    <img align="center" alt="SameeUllahJafar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameeUllahJafar&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
+  </a>
+</p>
+
+<hr/>
 
 <!-- Statistics End -->
 
